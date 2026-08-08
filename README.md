@@ -45,3 +45,24 @@ Give a ⭐️ if this project helped you!
 
 ---
 **Made with ❤️ by @arheroff-creator**
+
+[
+  {
+    "id": "1001",
+    "name": "Cobra Bundle",
+    "type": "Bundle",
+    "image": "https://cdn.example.com/1001.png"
+  },
+  {
+    "id": "1002", 
+    "name": "MP40 Cobra",
+    "type": "Gun Skin",
+    "image": "https://cdn.example.com/1002.png"
+  },
+  {
+    "id": "2001",
+    "name": "Kelly",
+    "type": "Character",
+    "image": "https://cdn.example.com/2001.png"
+  }
+]
