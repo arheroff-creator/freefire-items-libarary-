@@ -1,3 +1,5 @@
-# freefire-items-libarary-
-Free fire is battle ground game created by greena . This web is created for learn to add items by id or code . freefire items libarary 
-<link>https://freefireitemslibarary.netlify.app/</link>
+# 🔥 VIP FF Item Library
+Complete Free Fire Item Explorer
+
+✨ Features: Skins, Bundles, Emotes, Characters, Pets
+🚀 Live: https://freefireitemslibarary.netlify.app/
