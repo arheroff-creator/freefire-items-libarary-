@@ -3,7 +3,7 @@
 **The Complete Free Fire Item Database & Explorer**  
 Get all FF Skins, Bundles, Emotes, Characters, Pets & more with ID.
 
-🔗 **Live Website**: [https://freefireitemslibarary.netlify.app/](https://freefireitemslibarary.netlify.app/)
+🔗 **Live Website**: [https://freefireitemslibrary.netlify.app/](https://freefireitemslibrary.netlify.app/)
 
 ---
 
@@ -18,7 +18,7 @@ Get all FF Skins, Bundles, Emotes, Characters, Pets & more with ID.
 ---
 
 ### 🚀 How to Use
-1. Visit the website: [Live Demo](https://freefireitemslibarary.netlify.app/)
+1. Visit the website: [Live Demo](https://freefireitemslibrary.netlify.app/)
 2. Search any item by name or ID
 3. Copy the Item ID for your project/bot
 
