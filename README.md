@@ -28,3 +28,20 @@ Get all FF Skins, Bundles, Emotes, Characters, Pets & more with ID.
 This project is made for learning how to add and manage items by ID or code.
 
 Example:
+
+
+---
+
+### 📌 Tech Stack
+`HTML` `CSS` `JavaScript` `Netlify`
+
+---
+
+### 🤝 Contributing
+Pull requests are welcome! For major changes, please open an issue first.
+
+### ⭐ Show your support
+Give a ⭐️ if this project helped you!
+
+---
+**Made with ❤️ by @arheroff-creator**
