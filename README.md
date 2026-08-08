@@ -39,6 +39,7 @@ Example:
 
 ### 🤝 Contributing
 Pull requests are welcome! For major changes, please open an issue first.
+web is developing 
 
 ### ⭐ Show your support
 Give a ⭐️ if this project helped you!
